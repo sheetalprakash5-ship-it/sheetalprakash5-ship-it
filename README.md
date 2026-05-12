@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Sheetal Babu 👋
 
-<!--
-**sheetalprakash5-ship-it/sheetalprakash5-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Data & Analytics Leader | 15+ years | Ex-JPMorgan Chase VP
 
-Here are some ideas to get you started:
+I build analytics solutions that drive real business outcomes —
+from LLM-powered spend insights to SQL-based cohort analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Skills:** Python · SQL · Tableau · Power BI · OpenAI API · AWS · dbt
+
+📊 [View my Tableau dashboards](https://public.tableau.com/app/profile/sheetal.prakash/vizzes)
+
+### Projects
+- 🔍 [Credit Card Spend Analyzer](https://github.com/sheetalprakash5-ship-it/credit-spend-analyzer) — SQL + Python + AI insights
